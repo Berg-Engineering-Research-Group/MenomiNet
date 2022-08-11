@@ -6,11 +6,11 @@
 *Further information:* [10.17605/OSF.IO/M9RWX](https://doi.org/10.17605/OSF.IO/M9RWX)
 
 ### Dependencies
-**Receiver**
+**Receiver**  
 SPI.h  
 RH_RF95.h
 
-**Transmitter**
+**Transmitter**  
 Arduino.h  
 OneWire.h  
 DallasTemperature.h  
